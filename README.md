@@ -5,8 +5,12 @@ O programa consiste em uma API REST de consulta de endereço e cálculo de frete
 
 Foram utilizados no desenvolvimento 
 
-•	Java 11 
+•	Java 11
+
 •	Spring boot
+
 •	API REST Template
+
 •	Documentação Swagger 
+
 •	Testes unitários JUnit5
